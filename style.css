@@ -1,0 +1,10 @@
+body {
+	text-align: center;
+	color: red;
+	font-family: Helvetica, Arial, sans-serif;
+	background-color: white;
+	background-image: url('gifesito4X.gif');
+	
+	background-position: center;
+	background-size: 100% auto;
+}
